@@ -1,0 +1,24 @@
+{
+	"name": "@cawabunga/ref-finance-stableswap-math",
+	"version": "0.1.0",
+	"author": "Emil Ibatullin",
+	"license": "MIT",
+	"files": [
+		"ref_finance_stableswap_math_bg.wasm",
+		"ref_finance_stableswap_math.js",
+		"ref_finance_stableswap_math.d.ts"
+	],
+	"main": "ref_finance_stableswap_math.js",
+	"types": "ref_finance_stableswap_math.d.ts",
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cawabunga/ref-finance-stableswap-math.git"
+	},
+	"bugs": {
+		"url": "https://github.com/cawabunga/ref-finance-stableswap-math/issues"
+	},
+	"homepage": "https://github.com/cawabunga/ref-finance-stableswap-math/tree/main/pkg#readme"
+}
